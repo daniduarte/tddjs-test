@@ -1,0 +1,17 @@
+{
+  "name": "tdd-js",
+  "authors": [
+    "Daniel Duarte <dduarte1267@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
