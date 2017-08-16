@@ -1,5 +1,6 @@
-# tddjs-test
-Test development driven concept
+# Test driven development
+
+Test driven development concept
 
 It made with:
 - Karma
