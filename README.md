@@ -7,3 +7,17 @@ It made with:
 - Jasmine
 - POO JS pattern
 - JSDoc v3
+
+
+## Commands to play the game:
+
+Run tests
+
+``
+karma start
+``
+
+Regenerate JSDoc
+``
+jsdoc source/Operacion.js
+``
